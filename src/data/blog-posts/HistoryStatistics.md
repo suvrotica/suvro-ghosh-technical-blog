@@ -19,6 +19,8 @@ In the 9th Century, The Domesday Book, England's great land census, is compiled.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/72-w8ZhNV8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+The head of pre-modern legal and map collections at the National Archives, discusses the Domesday Book, the earliest public record held within the Exchequer collection at the National Archives. The Domesday Book is a record of lands, landholding, and resources in medieval England. It was never just a single book; originally, there were two Domesday books - Great Domesday and Little Domesday. The Domesday Book was written in medieval Latin and contains around two million words. It was a survey ordered by William the Conqueror in 1085 to record lands and landholding in his newly conquered kingdom. The Domesday Book provides a snapshot of a medieval society in transition and is crucial to our understanding of medieval England.
+
 ## Early Modern Period
 
 In 1662, John Graunt, a British demographer, publishes a statistical analysis of mortality data.
