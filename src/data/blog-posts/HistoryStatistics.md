@@ -1,5 +1,8 @@
-# History of Statistics
-
+---
+title: # History of Statistics 
+publishDate: 14-07-2023
+description: History antiquity - now
+---
 ![Statistics Illustration](https://maxst.icons8.com/vue-static/ouch/seo/opengraph.png)
 
 ## Ancient Times
