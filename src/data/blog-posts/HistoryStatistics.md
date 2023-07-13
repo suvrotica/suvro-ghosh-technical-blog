@@ -17,6 +17,7 @@ In the 5th Century BC, the Greek historian Herodotus makes mention of census dat
 
 In the 9th Century, The Domesday Book, England's great land census, is compiled.
 
+[![Video Name](image_link)](https://youtu.be/72-w8ZhNV8I) 
 ## Early Modern Period
 
 In 1662, John Graunt, a British demographer, publishes a statistical analysis of mortality data.
