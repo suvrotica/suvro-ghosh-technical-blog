@@ -8,7 +8,7 @@ description: Every blog starts with a single post. This is yours. Make it great.
 
 One acronym for the types of statistics: Descriptive, Inferential, Computational, and Exploratory.
 
-When I roll the ![dice](/assets/images/dice.jpeg), I hope to get a six.<img src="/assets/blog/casual-life-3d-girl-boy-poses.webp" alt="Not so wide" style="float: left" />
+<img src="/assets/images/dice.jpeg" alt="Not so wide" style="float: left" />
 
 # D 🎥
 
