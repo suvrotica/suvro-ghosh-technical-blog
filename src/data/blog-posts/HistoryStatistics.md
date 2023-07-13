@@ -1,7 +1,11 @@
 ---
-title: # History of Statistics 
-publishDate: 14-07-2023
-description: History antiquity - now
+
+title: DICE 🎲
+
+publishDate: 30 Nov 2021
+
+description: Every blog starts with a single post. This is yours. Make it great.
+
 ---
 ![Statistics Illustration](https://maxst.icons8.com/vue-static/ouch/seo/opengraph.png)
 
