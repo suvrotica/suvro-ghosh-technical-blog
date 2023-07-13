@@ -17,18 +17,7 @@ In the 5th Century BC, the Greek historian Herodotus makes mention of census dat
 
 In the 9th Century, The Domesday Book, England's great land census, is compiled.
 
-[![Video Name](image_link)](https://youtu.be/72-w8ZhNV8I) 
-
-# My Favorite Video
-
-
-
-Here is my favorite video:
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/72-w8ZhNV8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-
 
 ## Early Modern Period
 
